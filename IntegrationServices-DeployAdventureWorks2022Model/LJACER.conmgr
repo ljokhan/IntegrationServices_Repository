@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LJACER"
+  DTS:DTSID="{4B141890-0371-4EAB-B746-2731DEE3BD08}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LJACER;User ID=SSISUser;Initial Catalog=AdventureWorks2022;Provider=MSOLEDBSQL19.1;Persist Security Info=True;Auto Translate=False;Application Name=SSIS-IntegrationServices-DeployAdventureWorks2022Model-{4B141890-0371-4EAB-B746-2731DEE3BD08}LJACER;Trust Server Certificate=True;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYI5TxfVTNk2FQIxtFF8NGwAAAAACAAAAAAAQZgAAAAEAACAAAABHF5FA+lnxbknPBjOr9X11ZCcmQfBQ9ZlGsmJC/9XC7wAAAAAOgAAAAAIAACAAAAC0Qxg5zqg1Y9bhuSWAPtkvkF+mgq61b3VKgmjogV+BWIAAAACjH9++9liUV8QPjDzKJtvRaZH7/aOFX0TwC6c7D5vQs//ayJn328moWDsykSUX+txyKXRr4veVuyJE2Gn2glJoK3bChe9XjdNpoFhX7aFl+87n11p7OT3eZe8A0Aj5YKXH78iOjW73tU8um6eqgZcMUzf4FswZXJWAHYiJICC9HkAAAAAYZGg21Oa+Jb1HdmzbDVGNSKqDle0QOhULCZ9WBIBqMQPXVKwWJuCfrMiEWswuWts7T03uhVZf6pXAB90u+Rpy</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
