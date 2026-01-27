@@ -1,41 +1,27 @@
 ﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="1/27/2026 12:30:16 PM"
+  DTS:CreationDate="1/27/2026 12:57:36 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="LJACER"
   DTS:CreatorName="LJACER\ljokh"
-  DTS:DTSID="{8A0BBFC4-D13C-4D3C-A755-59F289D9FE1E}"
+  DTS:DTSID="{FBC5E6C3-3569-4691-832C-E153EFFE567C}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="17.0.1010.2"
   DTS:LocaleID="1033"
-  DTS:ObjectName="DeployAdventureWorks2022Model"
+  DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="4"
-  DTS:VersionGUID="{54AE9514-38F0-4DAE-A3D7-18935E4CCD07}">
+  DTS:VersionBuild="1"
+  DTS:VersionGUID="{777B4112-DD77-4410-89FE-13E0528D75D7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
-  <DTS:ConnectionManagers>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[LJACER]"
-      DTS:CreationName="OLEDB"
-      DTS:DTSID="{C4936954-BA3F-49A1-AFBF-00C432A67340}"
-      DTS:ObjectName="LJACER">
-      <DTS:ObjectData>
-        <DTS:ConnectionManager
-          DTS:ConnectRetryCount="1"
-          DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=LJACER;Provider=MSOLEDBSQL19.1;Integrated Security=SSPI;Application Name=SSIS-Package-{C4936954-BA3F-49A1-AFBF-00C432A67340}LJACER;Auto Translate=False;" />
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
-  </DTS:ConnectionManagers>
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
       DTS:refId="Package\Execute SQL Task"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:DTSID="{80AACB6B-E6EC-4E78-9CC5-D4AAA23B29E2}"
+      DTS:DTSID="{040DDB83-4054-4DD1-8624-5106D26BAA2E}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task"
@@ -43,9 +29,7 @@
       DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
-        <SQLTask:SqlTaskData
-          SQLTask:Connection="{C4936954-BA3F-49A1-AFBF-00C432A67340}"
-          SQLTask:SqlStatementSource="SELECT * FROM terst" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+        <SQLTask:SqlTaskData xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -64,7 +48,7 @@
         <NodeLayout
           Size="163,42"
           Id="Package\Execute SQL Task"
-          TopLeft="260,158" />
+          TopLeft="177,102" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
