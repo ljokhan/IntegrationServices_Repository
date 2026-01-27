@@ -26,26 +26,26 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">LJACER</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYI5TxfVTNk2FQIxtFF8NGwAAAAACAAAAAAAQZgAAAAEAACAAAACpZtCWjKqgqkzG+X5okhCNcNtaJW6tEqPIqP7W6kj+cgAAAAAOgAAAAAIAACAAAAAeLVqDRw6R7IczXmCJ9tsKUwCzZyskUlULvFP/wgUhu5AAAABQbLR4oMO7dbC4zMdzQvTFcM9zBq0qAsE+4wI1QsUbGcxUqtdFiyQaRNycvmCbVuzn8pFwVUdr0IyTPjPhs7/RhnRjBDwmgdkWrsgzD4KBe7o5lFM5ORoXM10gvt+VRhrE+v4AkNHEotTJ1zDr4nyP425F+440fZa/vkZmI1T7oC56tbPF8SYgnotCzn1mt+BAAAAAK+64HD9wENvUB8l3iVHGrYUI2wVgAclECUxz45wNh2fJLBCOX9Kjd8+hWdgJSvN17Pr/gmgmF5xX8gJ08nbYQA==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYI5TxfVTNk2FQIxtFF8NGwAAAAACAAAAAAAQZgAAAAEAACAAAAC6SFpUxON+yHAVY8w2VJseg7lRqUc+SY2q5OmBtDZIvAAAAAAOgAAAAAIAACAAAAAX2tR9E0lqan7Pd3firXH6swan8pODtIcYbzddapXBy5AAAADh6dZcO6O3chZCiuSIOWGPn+nzfwZjTj4+rGs4dXzKOTCQsVLdf36Sa3bp9wGDDL4wvEDZ1CpmKfrxrP0HfNIk+ERBPsTmI0KjSEb267Zc42Mu7GpjHlYyohG9c7wxYk3QrPRugIkbIdQPP/m17VrsTkHb0+VjgzDzmTDtw/knWO5JgqjhG4XmV5UTGoie6W9AAAAA9AeUj2QcStaO1Llg+blLLI1/X0rm+ubzS0Lj+n9eICQdT1DgaVxQnTcLW0G7Vmk6m1j5maZbCXpbGL1fL5PJmA==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
-          <SSIS:Package SSIS:Name="Package.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="DeployAdventureWorks2022Model.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
           <SSIS:ProjectConnectionParameters />
           <SSIS:PackageInfo>
-            <SSIS:PackageMetaData SSIS:Name="Package.dtsx">
+            <SSIS:PackageMetaData SSIS:Name="DeployAdventureWorks2022Model.dtsx">
               <SSIS:Properties>
-                <SSIS:Property SSIS:Name="ID">{EFB4914D-35A9-4C79-87C4-5FF99BBC7527}</SSIS:Property>
-                <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
+                <SSIS:Property SSIS:Name="ID">{8A0BBFC4-D13C-4D3C-A755-59F289D9FE1E}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">DeployAdventureWorks2022Model</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">3</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">4</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{98B154AB-8E4E-4FC6-BD45-913704758FB3}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{54AE9514-38F0-4DAE-A3D7-18935E4CCD07}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
