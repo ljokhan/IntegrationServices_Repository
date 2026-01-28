@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>IntegrationServices-DeployAdventureWorks2022Model</Name>
-    <LastWriteTime>2026-01-28T18:50:32.1010338Z</LastWriteTime>
+    <LastWriteTime>2026-01-28T22:14:21.2046837Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>DeployTabularModel.dtsx</Name>
-      <LastWriteTime>2026-01-28T19:59:53.0467478Z</LastWriteTime>
+      <LastWriteTime>2026-01-28T22:14:21.1836695Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
