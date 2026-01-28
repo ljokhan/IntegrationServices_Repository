@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LVJConsultingLLC.com.AdventureWorks2022.ljokhan"
+  DTS:DTSID="{8D4DCED3-3DF8-4386-B1B2-983140BE2DEF}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LVJConsultingLLC.com;User ID=ServiceAccount-SSIS;Initial Catalog=AdventureWorks2022;Provider=MSOLEDBSQL.1;Persist Security Info=True;Auto Translate=False;Application Name=SSIS-IntegrationServices-DeployAdventureWorks2022Model-{8D4DCED3-3DF8-4386-B1B2-983140BE2DEF}LVJConsultingLLC.com.AdventureWor;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYI5TxfVTNk2FQIxtFF8NGwAAAAACAAAAAAAQZgAAAAEAACAAAADaTcUnHfMfb6kg2Mee3dCpiUxdEydk4MPoW7V+1MUD1AAAAAAOgAAAAAIAACAAAAAxx+ZlfXSm9h5q193pfUVCA63kv2w3pljbGj6lIBnLeIAAAACdrrzHbeAAeT5OMXD81x+s4uAwlGStMHmPu6WEGP/6gczGDXf+FWVDbK8JbAH6mnhJyQC7uAVst5Tk+Ca6fvB6MgB83T9z1DWy66eKXYbbkpRGUVgPnUFgwoAGlTs9mizIG4GyFSdfef9qMxJ8wbf9qXyhYrmL/L6yMNQ/sdDW/0AAAAB8jwqSDO8BCpMbxF9ffBSzYavpOfS12t+UWv6Op/YKr56DgFvaZHYIxknNB9Pjgc+2jijPPryat6DUL0fvaG4V</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
