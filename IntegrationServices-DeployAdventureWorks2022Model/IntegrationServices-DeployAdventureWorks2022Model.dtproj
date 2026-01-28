@@ -26,11 +26,11 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">LJACER</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYI5TxfVTNk2FQIxtFF8NGwAAAAACAAAAAAAQZgAAAAEAACAAAAAn0rX5B56T6vax1E+5bMhuzJJLM1wOHdCsfwkA1vUI5AAAAAAOgAAAAAIAACAAAAAyLfobtqWus77tD8gvJcWQOPNFgfKt/PkDp3VmsmrFjZAAAAAEa8JaDKKXJ+EA/WfiC1Sge6uSNjYHSxCjo5m1u7efJg/JneW/aQHWZJOUYVxnNH2CWkACuEfeV3ikCaHvT0ugBgUh4L+18GyHLzkbmiidnUYEPQ880aHMbdImcuSQDXA0YK6f2BNww1TiDO8Yp00dKSsORhSRZncvPeKrAVharkYdeK7CmC71XMAKGkaxCqtAAAAAbSTrFceGWEqFVIC2h1tAptA5BWWQY6t1ebBR+o/dSK4dTHEmz0MDkaUG5xUe0rPNSdfFR8uVIOgTkMGv/u3DqA==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYI5TxfVTNk2FQIxtFF8NGwAAAAACAAAAAAAQZgAAAAEAACAAAADKE73qxdjYqrtxAf3DQ5xjOrRkS0teUYw0U8VFTuwKHwAAAAAOgAAAAAIAACAAAACJbr4JIGLo5tRq2b1VVn4mMvb+xzCcLKHIELq2+qSXq5AAAADrW6lkLK9jjMBqrKnzc0/I9/esFEPX2i0q7V2o1ezy1ot7NxdkzGvnq/XhyzXcfPi9JdGe7PsF7XamQL/Q7bN6kkErlV9fns66SkVgpnn09SbEMMWhpbZaEE2UVcKS+s5Y3hs/ocElhyJo4bpsRn/i0wm1GAIv+Fcr4DM949eTw8LMa4KLzRM16PVPgxO320xAAAAAX74OmxwfHlrbXm4qm+wTncLBzNkDEW1Edt81/2KZfkYOnqaDGjYe7Y+lxZpu3JA7U7+xDAfCCYWEkkbPgqEitw==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
-          <SSIS:Package SSIS:Name="Package.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="DeployTabularModel.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers>
           <SSIS:ConnectionManager SSIS:Name="LJACER.conmgr" />
@@ -338,16 +338,16 @@
             </SSIS:Parameter>
           </SSIS:ProjectConnectionParameters>
           <SSIS:PackageInfo>
-            <SSIS:PackageMetaData SSIS:Name="Package.dtsx">
+            <SSIS:PackageMetaData SSIS:Name="DeployTabularModel.dtsx">
               <SSIS:Properties>
-                <SSIS:Property SSIS:Name="ID">{FBC5E6C3-3569-4691-832C-E153EFFE567C}</SSIS:Property>
-                <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
+                <SSIS:Property SSIS:Name="ID">{EDD55298-D040-4E96-86BF-74F040FFDC92}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">DeployTabularModel</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">42</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">75</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{2D847D6D-EF4D-46BC-B061-0B4567F2AF51}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{489A0E54-2D8A-480E-A79F-8A5E56D8FF59}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
