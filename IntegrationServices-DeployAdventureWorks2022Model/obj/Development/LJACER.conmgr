@@ -10,7 +10,7 @@
       DTS:ConnectionString="Data Source=LJACER;User ID=SSISUser;Initial Catalog=AdventureWorks2022;Provider=MSOLEDBSQL19.1;Persist Security Info=True;Auto Translate=False;Application Name=SSIS-IntegrationServices-DeployAdventureWorks2022Model-{4B141890-0371-4EAB-B746-2731DEE3BD08}LJACER;Trust Server Certificate=True;">
       <DTS:Password
         DTS:Name="Password"
-        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYI5TxfVTNk2FQIxtFF8NGwAAAAACAAAAAAAQZgAAAAEAACAAAAAugmH+T1ltmD74jxNIRi5+UHwTStv4CcK97ikIxXjXLwAAAAAOgAAAAAIAACAAAADaEbd5wE657nAv2kmpiIB5idLZ+oUYTVEB7BWVTi/mQYAAAADkpIsccoJlFlBNGLVj9k7wkjHzwWJO3fEGxLnciL7TfXVyZppScaLQaQ3i/a+Ntcx5WnnFMcTL1t3jYFdTxYN7wgn9+stvZlUER508qhA/EeI49kB9FcXbWdOSqLJvindew8efACYMNoPWMoIuNI1CJ7LLdax+R56X9mJXmNtLGkAAAACS1ffOHzuMk8ABNbBdDiIxBqTHhnptoo+JkmSNI4Uikr3OFkjxjC78TiAuKkbt5K4ui71xpBiqQA8EI8fayK2E</DTS:Password>
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYI5TxfVTNk2FQIxtFF8NGwAAAAACAAAAAAAQZgAAAAEAACAAAACb+gVrP5l6iGNWufDUmmgR3C3GMI7PjUj5RQ0nmHhA0gAAAAAOgAAAAAIAACAAAADeBotXNZGvdcSWzvMScZhIH+HZU766Q5r7TNJngYBQb4AAAACrIcqjJ8Onwz0sV0nxZlGtaMic8F2QNhrt6KBdblNJ91nXP/HZbU7TD+N4q0qJmgKtU6yKmB02CTNJN39zcnyv6LA69jXq8Rn6DochsZ8Loxj+MQvi6tPNj+AgbYqyNOnhKRSCBtVYgzmVJukEtrr4CO1RTVtiLOQydAfKZJqGD0AAAAC1tC3Sd7mB7T37yMpY7ZyBHsHvQQKgkRw6nnvdkZYF1A6hstoOM0xBGpuTtjRsW0Gb0Na56oyu6ip5Xzhz/l0s</DTS:Password>
     </DTS:ConnectionManager>
   </DTS:ObjectData>
 </DTS:ConnectionManager>
